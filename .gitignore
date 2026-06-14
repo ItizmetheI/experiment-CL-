@@ -47,3 +47,13 @@ next-env.d.ts
 
 # local MCP config (contains API keys)
 /.mcp.json
+
+# OpenNext
+.open-next
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+
+!.env.example
